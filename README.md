@@ -1,6 +1,5 @@
 # PyTorch-Medtech-Diagnostic-Algorithm---Basic-Framework
-Medtech Diagnostic Algorithm Using PyTorch
-Overview
+
 This repository contains the implementation of a convolutional neural network (CNN) using PyTorch for medical diagnostic purposes. The project focuses on analyzing CT medical images to identify and predict certain medical conditions. It demonstrates the application of deep learning techniques in the field of medical imaging and healthcare technology.
 
 Dataset
